@@ -1,0 +1,14 @@
+.box{
+    width: 500px!important;
+    height: 300px!important;
+}
+input{
+    font-weight: bold !important;
+    height:50px;
+}
+input:focus{
+    outline: none;
+}
+body{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif!important;
+}
